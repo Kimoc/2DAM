@@ -1,5 +1,5 @@
 import java.io.*;
-public class Ejercicio03{
+public class Ejercicio02{
 
 	public static void main(String[] args){
 		//Lista los ficheros de input en el argumento (args[0])
