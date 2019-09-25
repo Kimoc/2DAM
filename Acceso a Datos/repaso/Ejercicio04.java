@@ -1,5 +1,5 @@
 import java.io.*;
-public class Ejercicio03{
+public class Ejercicio04{
 
 	public static void main(String[] args){
 		
@@ -13,6 +13,8 @@ public class Ejercicio03{
 				System.out.printnl("Ruta: \t"+f1.getPath());
 				System.out.printnl("Ruta: \t"+f1.getPath());
 			}
+		}catch (IOException ioe){
+			
 		}
 	}
 
