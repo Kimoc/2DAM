@@ -8,8 +8,7 @@ public class Ejercicio02{
 		String [] fList=f1.list();
 		System.out.println("Directorio: "+directorio);
 		for(int i =0; i<fList.length;i++){
-			
-
+		
 		System.out.println("Nombre "+fList[i].getName()+"   Tamaño "+fList[i].length() +"Bytes");
 					
 			

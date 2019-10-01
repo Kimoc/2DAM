@@ -17,7 +17,6 @@ public class EscribirFicheroAleatorio{
                         raf.writeChars(buffer.toString());
                         raf.writeInt(edat[i]);//inserta edad
                         raf.writeDouble(nota[i]);//inserta nota
-
                         raf.close();
             }
         }catch(IOException ioe){
